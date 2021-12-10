@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-[<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fnews.mtv.it%2Flife%2Fle-10-gif-piu-divertenti-da-usare-questa-estate%2F&psig=AOvVaw0iP8K1SsYI-cNGgsCr3O5F&ust=1639232551446000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiXn6W32fQCFQAAAAAdAAAAABAD">]
+<img src="https://media2.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47m28xylebtk3rvwpovbu4rnkjsp2gdkuumnh6ajx5&rid=giphy.gif&ct=g" width="500" height="500" />
 
 <!--
 **NicoCrucco/NicoCrucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
