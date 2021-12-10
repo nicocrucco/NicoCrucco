@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theinformationlab.it%2F2015%2F11%2F02%2Fqual-e-il-miglior-grafico-per-i-tuoi-dati%2F&psig=AOvVaw0N4YlhxudBYFU3nR5wJNaO&ust=1639232357880000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj038W22fQCFQAAAAAdAAAAABAD 
+
 
 <!--
 **NicoCrucco/NicoCrucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
