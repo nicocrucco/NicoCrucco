@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=23&color=23F72E&background=5287FF00&lines=Hi+there%2C+I'm+Nicol%C3%B2!%F0%9F%91%8B;Im+gay)]
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=23F72E&background=5287FF00&lines=Hi+there%2C+I'm+Nicol%C3%B2!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img src="https://media2.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47m28xylebtk3rvwpovbu4rnkjsp2gdkuumnh6ajx5&rid=giphy.gif&ct=g" width="400" height="400" align="center" />
 
