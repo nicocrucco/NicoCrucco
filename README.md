@@ -19,12 +19,16 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+***
+
+
 ### You can find me here!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolocrucco@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolo-crucco/)
 
-
 ---
+
+
 ### Profile stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoCrucco&show_icons=true&theme=chartreuse-dark)
 
