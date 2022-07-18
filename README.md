@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=23F72E&background=5287FF00&center=true&lines=Hi+there%2C+I'm+Nicol%C3%B2!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img src="https://media2.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47m28xylebtk3rvwpovbu4rnkjsp2gdkuumnh6ajx5&rid=giphy.gif&ct=g" width="400" height="400" align="center" />
+<img src="https://www.focus.it/images/2022/07/12/montagne-celesti-orig.jpg" width="800" height="400" align="center" />
 
 ### You can find me here!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolocrucco@gmail.com)
