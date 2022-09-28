@@ -7,8 +7,6 @@
 
 
 
-<img src="https://geekflare.com/wp-content/uploads/2019/11/color-palette.jpg" width="850" height="10" />
-
 
 
 ### Languages and other tools
