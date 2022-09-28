@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&color=23F72E&background=5287FF00&center=true&lines=Hi+there%2C+I'm+Nicol%C3%B2!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<img src="https://www.focus.it/images/2022/07/12/montagne-celesti-orig.jpg" width="800" height="400" align="center" />
 
 ### You can find me here!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolocrucco@gmail.com)
@@ -29,9 +28,3 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-
-### Profile stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoCrucco&show_icons=true&theme=chartreuse-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCrucco&theme=chartreuse-dark)
